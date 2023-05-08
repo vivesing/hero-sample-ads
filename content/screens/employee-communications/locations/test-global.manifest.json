@@ -1,0 +1,22 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1683574231278,
+  "entries": [
+    {
+      "path": "/content/screens/employee-communications/locations/test-global.html"
+    },
+    {
+      "path": "/content/screens/assets/test-global-slide.png",
+      "timestamp": 1683568537000
+    }
+  ]
+}
