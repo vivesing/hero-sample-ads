@@ -2,42 +2,42 @@
   "channels": [
     {
       "manifestPath": "/content/screens/employee-communications/locations/test-global.manifest.json",
-      "lastModified": "2023-05-08T17:55:37.000Z",
+      "lastModified": "2023-05-08T19:30:40.000Z",
       "externalId": "/content/screens/employee-communications/locations/test-global",
       "title": "test-global",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/test-global.html"
     },
     {
       "manifestPath": "/content/screens/employee-communications/locations/global/north-america/us/test-san-jose.manifest.json",
-      "lastModified": "2023-05-08T19:30:31.447Z",
+      "lastModified": "2023-05-08T19:30:39.000Z",
       "externalId": "/content/screens/employee-communications/locations/global/north-america/us/test-san-jose",
       "title": "test-san-jose",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/global/north-america/us/test-san-jose.html"
     },
     {
       "manifestPath": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/test-founders.manifest.json",
-      "lastModified": "2023-05-08T19:30:32.089Z",
+      "lastModified": "2023-05-08T19:30:39.000Z",
       "externalId": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/test-founders",
       "title": "test-founder",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/global/north-america/us/san-jose/test-founders.html"
     },
     {
       "manifestPath": "/content/screens/employee-communications/locations/global/test-north-america.manifest.json",
-      "lastModified": "2023-05-08T19:30:32.690Z",
+      "lastModified": "2023-05-08T19:30:40.000Z",
       "externalId": "/content/screens/employee-communications/locations/global/test-north-america",
       "title": "test-north-america",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/global/test-north-america.html"
     },
     {
       "manifestPath": "/content/screens/employee-communications/locations/global/north-america/test-us.manifest.json",
-      "lastModified": "2023-05-08T19:30:32.965Z",
+      "lastModified": "2023-05-08T19:30:39.000Z",
       "externalId": "/content/screens/employee-communications/locations/global/north-america/test-us",
       "title": "test-us",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/global/north-america/test-us.html"
     },
     {
       "manifestPath": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/west/test-player0.manifest.json",
-      "lastModified": "2023-05-08T19:30:33.398Z",
+      "lastModified": "2023-05-08T19:30:39.000Z",
       "externalId": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/west/test-player0",
       "title": "test-player0",
       "liveUrl": "https://main--sample-project--hlxscreens.hlx.live/content/screens/employee-communications/locations/global/north-america/us/san-jose/west/test-player0.html"
