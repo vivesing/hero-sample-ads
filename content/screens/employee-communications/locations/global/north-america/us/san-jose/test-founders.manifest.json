@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1683715966481,
+  "timestamp": 1684255581830,
   "entries": [
     {
       "path": "/content/screens/employee-communications/locations/global/north-america/us/san-jose/test-founders.html",
@@ -33,7 +33,7 @@
     },
     {
       "path": "/content/screens/assets/test-founders-slide.png",
-      "timestamp": 1683568101000
+      "timestamp": 1683702532000
     }
   ]
 }
